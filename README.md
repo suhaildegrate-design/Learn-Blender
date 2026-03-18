@@ -1,6 +1,3 @@
-No problem! Here's the README without any images - just clean text that still looks professional:
-
----
 
 <h1 align="center">🎓 Learn Blender</h1>
 <h3 align="center">YouTube Tutorial Finder – One Click. Right Inside Blender.</h3>
